@@ -11,7 +11,7 @@ openGraphImage: 'OGExample.png'
 
 ## TL;DR
 
-- Click "Use this template" in [GitHub](https://github.com/codexfelis/paws)
+- Click "Use this template" in [GitHub](https://github.com/codexfelis/paws-template)
 - [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) that repo you just made
 - fill in values in `src/lib/variables.js`
 - delete the documentation, write some content of your own
@@ -20,7 +20,7 @@ openGraphImage: 'OGExample.png'
 
 ## Getting started
 
-Once you have clicked "Use this template" on [GitHub](https://github.com/codexfelis/paws). There's a few bits and pieces you need to set up to make the site yours. It is probably easiest to clone the repository to your local machine to do this, although it can be done via the GitHub UI (particularly if you go to `https://github.dev/YourName/YourRepo` to use the web editor).
+Once you have clicked "Use this template" on [GitHub](https://github.com/codexfelis/paws-template). There's a few bits and pieces you need to set up to make the site yours. It is probably easiest to clone the repository to your local machine to do this, although it can be done via the GitHub UI (particularly if you go to `https://github.dev/YourName/YourRepo` to use the web editor).
 
 ## Running the dev server
 
@@ -54,7 +54,7 @@ export const variables = {
 	// The twitter username for you/project/department
 	twitter: 'codexfelis',
 	// Whatever GitHub you want to link to in the footer
-	github: 'https://github.com/codexfelis/paws',
+	github: 'https://github.com/codexfelis/paws-demo',
 	// URL segment for the content you update regularly
 	// If you change this, you also need to change the file/folder names
 	contentPath: 'blog'
@@ -73,7 +73,7 @@ There are other mentions of Twitter in the [SEO component](/blog/seo), but this 
 ## Add your pages
 
 Obviously, you will want to replace the words from this template to not just be the documentation!
-Don't worry, you can always see the documentation live at [paws-codexfelis-dev.netlify.app](https://paws.codexfelis.dev) or [the template repository](https://github.com/codexfelis/paws)
+Don't worry, you can always see the documentation live at [paws-codexfelis-dev.netlify.app](https://paws.codexfelis.dev) or [the demo site repository](https://github.com/codexfelis/paws-demo)
 
 The content (almost) everywhere is written in a [special kind of markdown](https://mdsvex.pngwn.io/) that allows for including Svelte components and snippets of javascript, and remember that HTML is valid markdown if you want to include something special.
 The existing `index.md` is a good example of the kinds of things you can do.

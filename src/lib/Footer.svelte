@@ -11,8 +11,10 @@
 		<a href="/rss.xml" rel="external">📰 RSS </a>
 	</p>
 	<p>
-		Built with <a href="https://github.com/codexfelis/paws" target="blank" rel="noopener noreferrer"
-			>🐾</a
+		Built with <a
+			href="https://github.com/codexfelis/paws-demo"
+			target="blank"
+			rel="noopener noreferrer">🐾</a
 		>
 		by
 		<a href="https://codexfelis.dev" target="blank" rel="noopener noreferrer">Codex Felis</a>. This

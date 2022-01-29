@@ -4,7 +4,7 @@
 
 Built and supported by [Codex Felis](https://www.codexfelis.dev)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D35CFF1) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D35CFF1)
 
 Paws is a static site built on [SvelteKit](https://kit.svelte.dev/), using [Markdown](https://www.markdownguide.org/) for blog content, optionally with [Netlify CMS](https://www.netlifycms.org/). [Developer tooling](/blog/tooling) to help with editing the
 template in [VSCode](https://code.visualstudio.com/) is provided.
@@ -13,12 +13,12 @@ template in [VSCode](https://code.visualstudio.com/) is provided.
 
 ## Getting started
 
-[Use this template](https://github.com/codexfelis/paws) in GitHub, or read the [deployed documentation](https://paws.codexfelis.dev). This is also a demo site - you can see the content [in this repository too](https://github.com/codexfelis/paws/tree/main/src/routes/blog).
+[Use this template](https://github.com/codexfelis/paws-template) in GitHub, or read the [deployed documentation](https://paws.codexfelis.dev) on this site. This demo site is built with Paws - you can see the code [in this repository](https://github.com/codexfelis/paws-demo).
 
 Get up and running with this site really fast! For an [opinionated
 quickstart](https://paws.codexfelis.dev/blog/initial-setup), you need to have
 
-- clicked "use this template" in [GitHub](https://github.com/codexfelis/paws), so you have your own copy of
+- clicked "use this template" in [GitHub](https://github.com/codexfelis/paws-template), so you have your own copy of
   this repository, and cloned it to your own computer
 - set up a free account on Netlify ready for [deployment](https://paws.codexfelis.dev/blog/deployment) (other static site hosting options
   are fine if you know how)
@@ -37,7 +37,7 @@ While this template is still under development, these docs assume that you:
 - are able to set up a working NodeJS environment on your computer.
 
 More comprehensive beginner documentation is coming soon, and if you get stuck feel free to [contact
-us](mailto:hi@codexfelis.dev) for help or [raise an issue in GitHub](https://github.com/codexfelis/paws).
+us](mailto:hi@codexfelis.dev) for help or [raise an issue in GitHub](https://github.com/codexfelis/paws-template/issues).
 
 ## Local development
 

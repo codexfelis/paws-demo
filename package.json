@@ -1,8 +1,8 @@
 {
 	"name": "paws",
 	"version": "1.0.0",
-	"description": "Lightweight and simple static site template for researchers in the Digital Humanities",
-	"homepage": "https://github.com/codexfelis/paws",
+	"description": "Lightweight and simple static site for researchers in the Digital Humanities",
+	"homepage": "https://github.com/codexfelis/paws-demo",
 	"license": "MIT",
 	"scripts": {
 		"dev": "svelte-kit dev",
