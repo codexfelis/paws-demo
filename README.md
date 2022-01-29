@@ -1,10 +1,10 @@
-# Paws
+# Paws Demo Site [![Netlify Status](https://api.netlify.com/api/v1/badges/14382b3a-dfc4-4908-a26e-a0c2af688310/deploy-status)](https://app.netlify.com/sites/paws-codexfelis/deploys)
 
 > Lightweight and simple static site template for researchers in the Digital Humanities.
 
 Built and supported by [Codex Felis](https://www.codexfelis.dev)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D35CFF1)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D35CFF1) 
 
 Paws is a static site built on [SvelteKit](https://kit.svelte.dev/), using [Markdown](https://www.markdownguide.org/) for blog content, optionally with [Netlify CMS](https://www.netlifycms.org/). [Developer tooling](/blog/tooling) to help with editing the
 template in [VSCode](https://code.visualstudio.com/) is provided.
